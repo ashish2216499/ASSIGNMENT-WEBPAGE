@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-inter: Inter;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #201d1d;
+  --color-firebrick: #af1010;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}

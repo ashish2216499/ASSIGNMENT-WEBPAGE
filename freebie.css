@@ -1,0 +1,163 @@
+.desktop-3-2 {
+  position: absolute;
+  top: 21px;
+  left: 1320px;
+  width: 253px;
+  height: 1034px;
+  object-fit: cover;
+}
+.app-landing {
+  margin: 0;
+}
+.app-landing-page-container {
+  top: 276.3px;
+  left: 116.2px;
+  font-weight: 600;
+}
+.app-landing-page-container,
+.source-files,
+.super-awesome {
+  position: absolute;
+  letter-spacing: -0.04em;
+  line-height: 117.52%;
+}
+.super-awesome {
+  top: 479px;
+  left: 116.2px;
+  font-size: 51.3px;
+  font-weight: 600;
+}
+.source-files {
+  top: 548px;
+  left: 116px;
+  font-size: 40.6px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 277.3px;
+  left: 864.8px;
+  filter: drop-shadow(16px 16px 95.85px rgba(168, 168, 168, 0.1));
+  width: 291.8px;
+  height: 631.9px;
+  transform: rotate(-20.2deg);
+  transform-origin: 0 0;
+}
+.div1 {
+  top: 242.7px;
+  left: 507.9px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 47.92px;
+  background-color: var(--color-firebrick);
+  width: 234px;
+  height: 48px;
+}
+.free-template {
+  position: absolute;
+  top: 8px;
+  left: 25.6px;
+  letter-spacing: -0.04em;
+  line-height: 117.52%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 189px;
+  left: 190px;
+  width: 234px;
+  height: 48px;
+  font-size: 28.8px;
+  color: var(--color-gray-100);
+}
+.div2 {
+  position: absolute;
+  top: -340.5px;
+  left: 637.4px;
+  filter: drop-shadow(16px 16px 95.85px rgba(168, 168, 168, 0.1));
+  width: 291.7px;
+  height: 631.6px;
+  transform: rotate(-20.1deg);
+  transform-origin: 0 0;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 63.9px 95.85px rgba(58, 58, 58, 0.2);
+  border-radius: 95.85px;
+  background-color: var(--color-gray-100);
+  width: 146px;
+  height: 92px;
+}
+.figma-icon {
+  width: 55.1px;
+  position: relative;
+  height: 55.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.figma-wrapper {
+  position: absolute;
+  top: 18.4px;
+  left: 46.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-group {
+  position: absolute;
+  top: 46px;
+  left: 79px;
+  width: 146px;
+  height: 92px;
+}
+.desktop-3-1,
+.preview-child {
+  position: absolute;
+  top: 177px;
+  left: 110px;
+  width: 64.7px;
+  height: 64.7px;
+}
+.desktop-3-1 {
+  top: 73px;
+  left: 620px;
+  width: 814px;
+  height: 3328px;
+  object-fit: cover;
+}
+.preview {
+  position: absolute;
+  bottom: -36px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: rgba(76, 125, 198, 0.42);
+  width: 1600px;
+  height: 996px;
+  overflow: hidden;
+}
+.iphone-13-pro-front-icon {
+  position: absolute;
+  top: calc(50% + 185px);
+  left: calc(50% - 668px);
+  width: 533.7px;
+  height: 793px;
+  object-fit: contain;
+}
+.freebie {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 71.8px;
+  color: var(--color-firebrick);
+  font-family: var(--font-inter);
+}

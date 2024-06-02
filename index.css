@@ -1,0 +1,171 @@
+.image-1-icon {
+  position: absolute;
+  top: 303px;
+  left: 295px;
+  border-radius: 3px;
+  width: 891px;
+  height: 657px;
+  object-fit: cover;
+}
+.download-a-free,
+.tm {
+  position: absolute;
+  font-weight: 800;
+}
+.download-a-free {
+  top: -19px;
+  left: 298px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1001.7px;
+  height: 445.8px;
+}
+.tm {
+  top: 24.8px;
+  left: 217.8px;
+  display: inline-block;
+  width: 18.2px;
+  height: 12.4px;
+}
+.trending-topic-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 68.5px;
+  height: 81.9px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.uifry-icon {
+  position: absolute;
+  top: 12.4px;
+  left: 81.5px;
+  width: 132.7px;
+  height: 70.6px;
+  object-fit: cover;
+}
+.tm-parent,
+.trending-topic-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 214.2px;
+  height: 83px;
+}
+.tm-parent {
+  top: 42px;
+  left: 272px;
+  width: 236px;
+  text-align: left;
+  font-size: 5.9px;
+}
+.emmental {
+  position: absolute;
+  top: 98.3px;
+  left: 79.2px;
+  width: 104.7px;
+  height: 104.7px;
+  overflow: hidden;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.emmental-icon,
+.group-icon {
+  position: absolute;
+  overflow: hidden;
+  object-fit: contain;
+}
+.emmental-icon {
+  top: 618.2px;
+  left: 1263.7px;
+  width: 138.7px;
+  height: 138.7px;
+  opacity: 0.05;
+}
+.group-icon {
+  height: 10.61%;
+  width: 5.29%;
+  top: 61.24%;
+  right: 0;
+  bottom: 28.14%;
+  left: 94.71%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group-icon1 {
+  height: 10.68%;
+  width: 5.96%;
+  top: 0;
+  right: 2.22%;
+  bottom: 89.32%;
+  left: 91.82%;
+}
+.group-icon1,
+.group-icon2,
+.group-icon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon2 {
+  height: 17.98%;
+  width: 9.73%;
+  top: 57.48%;
+  right: 90.27%;
+  bottom: 24.54%;
+  left: 0;
+  object-fit: contain;
+}
+.group-icon3 {
+  height: 9.86%;
+  width: 5.5%;
+  top: 89.71%;
+  right: 89.56%;
+  bottom: 0.44%;
+  left: 4.94%;
+  opacity: 0.05;
+}
+.emmental-parent {
+  position: absolute;
+  top: 190px;
+  left: 38px;
+  width: 1433.9px;
+  height: 756.8px;
+}
+.uifrycom-waiting-list-and-fee-child {
+  position: absolute;
+  top: -109px;
+  left: 38px;
+  width: 1388.3px;
+  height: 598.3px;
+  object-fit: contain;
+  opacity: 0.2;
+}
+.emmental-icon1 {
+  position: absolute;
+  height: 13.83%;
+  width: 8.54%;
+  top: 15.64%;
+  right: 87.02%;
+  bottom: 70.53%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.uifrycom-waiting-list-and-fee {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(103.53deg, #ff5e08, #ff9963);
+  height: 960px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 58.3px;
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}
